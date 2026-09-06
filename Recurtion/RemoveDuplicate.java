@@ -23,9 +23,6 @@ public class RemoveDuplicate {
             stringcheacker(str, newstr, index+1);
         }
 
-
-
-        
     }
     
     public static void main(String[] args) {
